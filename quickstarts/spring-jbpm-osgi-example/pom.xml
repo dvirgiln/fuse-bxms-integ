@@ -260,7 +260,7 @@
         <repository>
           <id>redhat-product-ga</id>
           <name>Red Hat Product GA</name>
-          <url>https://maven.repository.redhat.com/ga</url>
+          <url>https://maven.repository.redhat.com/nexus/content/groups/product-ga</url>
         </repository>		
     </repositories>
 
